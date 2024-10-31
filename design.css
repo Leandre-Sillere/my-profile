@@ -1,0 +1,145 @@
+
+h1{
+	color: royalblue;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: Courier;
+}
+   
+body{
+	  color: dark;
+	  background-color: ghostwhite;
+	  font-weight: lighter;
+	  font-family: sans-serif;
+	}
+a{
+	text-decoration: underline;
+	color: royalblue;
+}
+a:hover{
+	color: burlywood;
+}
+
+h2{color: saddlebrown;
+font-weight: lighter;
+font-family: }
+rap music{font-weight: bolder;}
+
+.Rap {box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	background-color: lightgoldenrodyellow;
+	text-align: center;
+	border-top: 1px solid black;
+border-bottom: 1px solid black;
+border-right: 1px solid black;
+border-left: 1px solid black;
+margin: 10px;
+border-color: white;
+border-radius: 30px;
+margin-left: 70px;
+margin-right: 70px;
+}
+
+.Card {box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	background-color: lightgoldenrodyellow;
+	text-align: center;
+	border-top: 1px solid black;
+border-bottom: 1px solid black;
+border-right: 1px solid black;
+border-left: 1px solid black;
+margin: 10px;
+border-color: white;
+border-radius: 30px;
+margin-left: 70px;
+margin-right: 70px;
+}
+.Football {box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	background-color: lightgoldenrodyellow;
+	text-align: center;
+	border-top: 1px solid black;
+border-bottom: 1px solid black;
+border-right: 1px solid black;
+border-left: 1px solid black;
+margin: 10px;
+border-color: white;
+border-radius: 30px;
+margin-left: 70px;
+margin-right: 70px;
+}
+.Poetry{box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	background-color: lightgoldenrodyellow;
+	text-align: center;
+	border-top: 1px solid black;
+border-bottom: 1px solid black;
+border-right: 1px solid black;
+border-left: 1px solid black;
+margin: 10px;
+border-color: white;
+border-radius: 30px;
+margin-left: 70px;
+margin-right: 70px;
+}
+.ieseglogo{
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+	background-color: white;
+	text-align: center;
+border-top: 1px solid black;
+border-bottom: 1px solid black;
+border-right: 1px solid black;
+border-left: 1px solid black;
+margin: 10px;
+	border-radius: 30px;
+	box-align: center;
+	margin-left: 70px;
+margin-right: 70px;
+	
+}
+.profilepicture{
+	box-align: center;
+	border-radius: 40px;
+	border: 3px;
+}
+.head{text-align: center;
+margin: 30px;
+border-top: 2px solid black;
+border-bottom: 2px solid black;
+border-right: 2px solid black;
+border-left: 2px solid black;
+	border-radius: 30px;
+background-color: white;
+padding: 20px;
+box-shadow: 0px 10px 30px royalblue; 
+}
+
+.social-links{ text-align: left;
+	border-top: 2px solid black;
+border-bottom: 2px solid black;
+border-right: 2px solid black;
+border-left: 2px solid black;
+border-radius: 30px;
+padding-left: 50px;
+margin-left: 70px;
+margin-right: 70px;
+
+.container{
+	width: 700px;
+}
+@media (max-width: 500px) {
+  .container{
+  	width: 400px;
+  }
+}
+@media (max-width: 500px) {
+  .container{
+  	width: 400px;
+  }
+}
+@media (max-width: 760px) {
+  .container{
+  	width: 600px;
+  }
+}
+
+
+
+
+
